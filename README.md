@@ -4,7 +4,8 @@ A simple python script that uses web scraping techniques to find out birthday an
 This script reqires bs4 and request libraries
 To install bs4 and requests, use the following command
 
-pip install bs4
-pip install requests
+             pip install bs4
 
-After installing therse librarries simply type the first name and last name of the person to  get his/her/its birtday
+             pip install requests
+
+After installing these libraries simply run the script and type the first name and last name of the person to  get his/her/its birtday
