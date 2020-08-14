@@ -12,12 +12,12 @@ After installing these libraries simply run the script and type the first name a
 
 USAGE :-
 
-     birthday.py
+     birthday.py :-
      
                           python birthday.py
                           
               -------------------------------------------
      
-     birthdayf.py  
+     birthdayf.py :-  
               
                  python birthdayf.py <firstname> <lastname>
