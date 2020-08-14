@@ -1,4 +1,4 @@
-# birtday
+# birthday
 A simple python script that uses web scraping techniques to find out birthday and calculates of any famous person (any person on Wikipedia = famous person)
 
 This script reqires bs4 and request libraries
